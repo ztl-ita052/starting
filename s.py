@@ -4,6 +4,9 @@ while(i<=100):
             print(i,end=" ")
     i=i+1
 print("good night")
+<<<<<<< HEAD
 print("bansi")
 
 print("updated files")
+=======
+>>>>>>> parent of e10209c... new updates
